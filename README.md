@@ -43,33 +43,8 @@
 
 `chmod +x dark.py`
 
-`python `
-
-# Ngrok LinkEditor :
+`python dark.py`
 
 
-Now go Termux New Session
-
-`ls`
-
-`bash LinkEditor.sh`
-
-(1) Paste ngrok link 
-
-(2) Type Domain
-
-(3) Type social engineering words ex(ludo-star) ex (pubg-mobile)
-
-To See Hack images >
-
-`termux-setup-storage`
-
-`ls`
-
-`mv` (image name with .png) `/sdcard/`
-
-Any  file expoler open serch pic name
-
-Now go and chek your gallery for g.f image...
 
  2022 © - Error-For-You
