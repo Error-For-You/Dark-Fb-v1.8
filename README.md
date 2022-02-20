@@ -37,13 +37,13 @@
 `pkg install python2`
 
 
-`git clone https://github.com/Error-For-You/Web-CamHack`
+`git clone https://github.com/Error-For-You/Dark-Fb-v1.8`
 
-`cd Web-CamHack`
+`cd Dark-Fb-v1.8`
 
-`chmod +x lovehacker.sh ngrok`
+`chmod +x dark.py`
 
-`bash lovehacker.sh`
+`python `
 
 # Ngrok LinkEditor :
 
