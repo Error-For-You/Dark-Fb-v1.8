@@ -32,7 +32,9 @@
 
 # Installation :
 
-`pkg install php`
+`pkg install python`
+
+`pkg install python2`
 
 
 `git clone https://github.com/Error-For-You/Web-CamHack`
