@@ -2,9 +2,9 @@
 # coding=utf-8
 #Do not recode
 #recode singles for life
-# (MR.ALI IMRAN) MAKER
-#SUBSCRIBE CHANNEL TechnicalAli433
-#FOLLOW INSTAGRAM @TechnicalAli433
+# Error-For-You
+#SUBSCRIBE CHANNEL Error-For-You
+#FOLLOW INSTAGRAM @Error-For-You
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
