@@ -2,8 +2,8 @@
 # coding=utf-8
 #Do not recode
 #recode singles for life
-# Error-For-You
-#SUBSCRIBE CHANNEL Error-For-You
+# (MR.ALI IMRAN) MAKER
+#SUBSCRIBE CHANNEL TechnicalAli433
 #FOLLOW INSTAGRAM @Error-For-You
 
 #Import module
@@ -67,10 +67,10 @@ logo = """\033[1;96m█████████
 \033[1;96m█████████      \033[1;92m«----------✧----------»
 \033[1;96m ██ ██
 \033[1;96m╔══════════════════════════════════════════════╗
-\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•ERROR 4 YOY \033[1;96m                ║
-\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/Error-For-You\033[0m \033[1;96m     ║
-\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033m#\033[0m \033[1;96m   ║
-\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m#\033[0m \033[1;96m                   ║
+\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•MR.ALI IMRAN \033[1;96m                ║
+\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/TechnicalAli433\033[0m \033[1;96m     ║
+\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://youtube.com/c/TechnicalAli433\033[0m \033[1;96m   ║
+\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@TechnicalAli433\033[0m \033[1;96m                   ║
 \033[1;96m╚══════════════════════════════════════════════╝"""
 
 # titik #
