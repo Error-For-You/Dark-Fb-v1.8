@@ -2,8 +2,8 @@
 # coding=utf-8
 #Do not recode
 #recode singles for life
-# (MR.ALI IMRAN) MAKER
-#SUBSCRIBE CHANNEL TechnicalAli433
+# Error-For-You
+#SUBSCRIBE CHANNEL ERROR 4 YOU
 #FOLLOW INSTAGRAM @Error-For-You
 
 #Import module
